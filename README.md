@@ -3,6 +3,8 @@ GeoIP Functions in Known
 
 This is a simple plugin that provides an event hook for resolving GeoIP details via a PHP's geoIP database functions.
 
+Note, this plugin doesn't really do much by itself, but will provide functionality to others (e.g. LoginSyslog) when installed.
+
 Installation
 ------------
 
